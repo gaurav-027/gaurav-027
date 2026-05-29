@@ -89,28 +89,6 @@ const gaurav = {
 
 ---
 
-<!-- Activity Graph -->
-<div align="center">
-
-## 📈 Contribution Activity
-
-[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gaurav-027&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/gaurav-027)
-
-</div>
-
----
-
-<!-- Trophies -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gaurav-027&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/gaurav-027)
-
-</div>
-
----
-
 <!-- Connect Section -->
 <div align="center">
 
