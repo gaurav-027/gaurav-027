@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**gaurav-027/gaurav-027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=GAURAV&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Learner%20%7C%20Builder&descAlignY=58"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hey 👋 I'm Gaurav</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Learner;DSA+Explorer;Data+Science+Enthusiast;Building+cool+things+on+the+internet+🚀" />
+</p>
+
+---
+
+## 🚀 About Me
+
+```js
+const gaurav = {
+  location: "India 🇮🇳",
+  education: "BCA Final Year",
+  currentlyLearning: ["MERN Stack", "DSA", "Data Science"],
+  interests: ["Web Development", "Open Source", "UI/UX", "Backend"],
+  lifeGoal: "Build products people love 🚀"
+}
+
+
