@@ -89,41 +89,12 @@ const gaurav = {
 
 ---
 
-<!-- GitHub Stats Section -->
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gaurav-027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-027&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=ff6b6b&currStreakLabel=00d4ff" />
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" />
-
-</div>
-
----
-
 <!-- Activity Graph -->
 <div align="center">
 
 ## 📈 Contribution Activity
 
 [![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gaurav-027&bg_color=0d1117&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/gaurav-027)
-
-</div>
-
----
-
-<!-- Snake Eating Contributions -->
-<div align="center">
-
-## 🐍 Watch the Snake Eat My Contributions!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav-027/gaurav-027/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaurav-027/gaurav-027/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gaurav-027/gaurav-027/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
