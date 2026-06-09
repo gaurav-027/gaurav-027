@@ -109,6 +109,22 @@ const gaurav = {
 
 ---
 
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav-027/gaurav-027/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaurav-027/gaurav-027/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gaurav-027/gaurav-027/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d4ff,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
