@@ -83,7 +83,6 @@ const gaurav = {
 </p>
 
 </div>
----
 
 <!-- Connect Section -->
 <div align="center">
@@ -108,9 +107,7 @@ const gaurav = {
 </div>
 
 ---
-
----
-
+<!-- 
 <div align="center">
 
 ## 🐍 Contribution Snake
@@ -121,7 +118,7 @@ const gaurav = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gaurav-027/gaurav-027/output/github-contribution-grid-snake.svg" />
 </picture>
 
-</div>
+</div> -->
 
 ---
 
